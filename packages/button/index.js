@@ -1,7 +1,7 @@
-import Button from "./src/button.vue";
+import OgButton from "./src/button.vue";
 
-Button.install = function (Vue) {
-  Vue.component(Button.name, Button)
+OgButton.install = function (Vue) {
+  Vue.component(OgButton.name, OgButton)
 }
 
-export default Button
+export default OgButton

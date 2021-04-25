@@ -1,12 +1,12 @@
 module.exports = {
-  title: 'OGUI',
+  title: '大屏设计器',
 
   description: '组件库',
   themeConfig: {
     nav: [
       { text: '指南', link: '/introduce/' },
       { text: '组件', link: '/components/' },
-      { text: '表单设计器', link: 'https://google.com' },
+      { text: 'google', link: 'https://google.com' },
       {
         text: 'Languages',
         items: [

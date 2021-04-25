@@ -1,4 +1,4 @@
----
+<!-- ---
 home: true
 heroImage: /logo.png
 actionText: 起步 →
@@ -11,4 +11,7 @@ features:
 - title: 性能高效
   details: VuePress 将每个页面生成为预渲染的静态 HTML，每个页面加载之后，然后作为单页面应用程序(SPA)运行。
 footer: MIT Licensed | Copyright © 2018-present Evan You
----
+--- -->
+<template>
+   <form-design></form-design>
+</template>

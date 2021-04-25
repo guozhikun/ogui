@@ -1,7 +1,9 @@
-import Button from "../../packages/index"
+import OgButton from "../../packages/index"
+import FormDesign from "../../packages/index"
 
 export default ({
   Vue
 }) => {
-  Vue.use(Button)
+  Vue.use(OgButton)
+  Vue.use(FormDesign)
 }
